@@ -1,0 +1,783 @@
+种子: 42
+错误样本总数: 130
+==================================================
+样本 1:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jk-0-7-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jk-0-7-z.png
+  真实标签: 0
+  预测标签: 1
+--------------------------------------------------
+样本 2:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jk-0-23-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jk-0-23-z.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 3:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/bd-0-5-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/bd-0-5-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 4:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jjk-0-14-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jjk-0-14-f.png
+  真实标签: 0
+  预测标签: 1
+--------------------------------------------------
+样本 5:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jk-0-17-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jk-0-17-z.png
+  真实标签: 0
+  预测标签: 1
+--------------------------------------------------
+样本 6:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jjk-0-19-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jjk-0-19-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 7:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/bd-0-9-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/bd-0-9-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 8:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jk-0-32-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jk-0-32-z.png
+  真实标签: 0
+  预测标签: 3
+--------------------------------------------------
+样本 9:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jk-0-14-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jk-0-14-z.png
+  真实标签: 0
+  预测标签: 1
+--------------------------------------------------
+样本 10:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jjk-0-13-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jjk-0-13-z.png
+  真实标签: 0
+  预测标签: 1
+--------------------------------------------------
+样本 11:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jjk-0-15-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jjk-0-15-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 12:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/0/jk-0-16-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/0/jk-0-16-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 13:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/ys-6-9-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/ys-6-9-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 14:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-12-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-12-f.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 15:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/ys-6-20-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/ys-6-20-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 16:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-14-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-14-z.png
+  真实标签: 1
+  预测标签: 3
+--------------------------------------------------
+样本 17:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/jk-6-19-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/jk-6-19-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 18:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/jjk-6-12-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/jjk-6-12-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 19:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-9-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-9-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 20:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/jk-6-24-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/jk-6-24-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 21:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-3-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-3-f.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 22:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-27-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-27-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 23:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-2-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-2-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 24:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-6-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-6-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 25:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/ys-6-1-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/ys-6-1-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 26:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/jk-6-8-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/jk-6-8-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 27:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-25-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-25-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 28:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/jjk-6-13-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/jjk-6-13-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 29:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/ys-6-23-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/ys-6-23-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 30:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/jk-6-19-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/jk-6-19-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 31:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/jk-6-37-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/jk-6-37-f.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 32:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/6/bd-6-22-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/6/bd-6-22-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 33:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/jk-12-21-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/jk-12-21-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 34:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/jk-12-36-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/jk-12-36-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 35:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/ys-12-1-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/ys-12-1-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 36:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/ys-12-25-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/ys-12-25-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 37:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/bd-12-18-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/bd-12-18-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 38:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/bd-12-8-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/bd-12-8-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 39:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/jk-12-21-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/jk-12-21-f.png
+  真实标签: 1
+  预测标签: 3
+--------------------------------------------------
+样本 40:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/ys-12-18-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/ys-12-18-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 41:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/ys-12-29-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/ys-12-29-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 42:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/bd-12-25-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/bd-12-25-f.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 43:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/jjk-12-9-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/jjk-12-9-f.png
+  真实标签: 0
+  预测标签: 1
+--------------------------------------------------
+样本 44:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/jk-12-19-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/jk-12-19-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 45:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/bd-12-11-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/bd-12-11-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 46:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/jk-12-7-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/jk-12-7-z.png
+  真实标签: 1
+  预测标签: 2
+--------------------------------------------------
+样本 47:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/ys-12-5-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/ys-12-5-z.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 48:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/bd-12-26-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/bd-12-26-f.png
+  真实标签: 1
+  预测标签: 0
+--------------------------------------------------
+样本 49:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/12/bd-12-10-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/12/bd-12-10-f.png
+  真实标签: 1
+  预测标签: 3
+--------------------------------------------------
+样本 50:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jjk-18-2-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jjk-18-2-z.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 51:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/ys-18-28-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/ys-18-28-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 52:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-24-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-24-f.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 53:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-17-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-17-z.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 54:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-7-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-7-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 55:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-15-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-15-f.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 56:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-1-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-1-f.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 57:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/bd-18-6-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/bd-18-6-z.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 58:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jjk-18-19-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jjk-18-19-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 59:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/bd-18-25-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/bd-18-25-z.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 60:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/bd-18-6-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/bd-18-6-f.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 61:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-16-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-16-f.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 62:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-10-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-10-f.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 63:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/ys-18-24-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/ys-18-24-z.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 64:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jk-18-12-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jk-18-12-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 65:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/jjk-18-13-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/jjk-18-13-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 66:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/ys-18-22-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/ys-18-22-f.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 67:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/18/bd-18-15-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/18/bd-18-15-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 68:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/bd-24-28-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/bd-24-28-z.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 69:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-3-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-3-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 70:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-30-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-30-z.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 71:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-5-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-5-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 72:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-9-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-9-f.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 73:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-9-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-9-z.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 74:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-25-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-25-f.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 75:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-21-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-21-z.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 76:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-33-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-33-z.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 77:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-34-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-34-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 78:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jjk-24-20-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jjk-24-20-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 79:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-19-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-19-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 80:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-9-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-9-f.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 81:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/bd-24-10-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/bd-24-10-z.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 82:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-16-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-16-f.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 83:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-32-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-32-f.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 84:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-6-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-6-z.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 85:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-37-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-37-f.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 86:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-4-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-4-f.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 87:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-21-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-21-f.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 88:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/jk-24-17-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/jk-24-17-f.png
+  真实标签: 2
+  预测标签: 3
+--------------------------------------------------
+样本 89:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/ys-24-6-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/ys-24-6-z.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 90:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/bd-24-23-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/bd-24-23-z.png
+  真实标签: 2
+  预测标签: 1
+--------------------------------------------------
+样本 91:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/24/bd-24-20-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/24/bd-24-20-f.png
+  真实标签: 2
+  预测标签: 0
+--------------------------------------------------
+样本 92:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/jjk-30-21-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/jjk-30-21-f.png
+  真实标签: 0
+  预测标签: 3
+--------------------------------------------------
+样本 93:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/ys-30-15-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/ys-30-15-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 94:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-23-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-23-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 95:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-21-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-21-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 96:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/ys-30-32-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/ys-30-32-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 97:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/jjk-30-18-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/jjk-30-18-z.png
+  真实标签: 0
+  预测标签: 3
+--------------------------------------------------
+样本 98:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-4-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-4-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 99:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-27-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-27-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 100:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/ys-30-16-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/ys-30-16-f.png
+  真实标签: 3
+  预测标签: 0
+--------------------------------------------------
+样本 101:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/jk-30-5-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/jk-30-5-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 102:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/jk-30-12-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/jk-30-12-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 103:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-17-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-17-f.png
+  真实标签: 3
+  预测标签: 0
+--------------------------------------------------
+样本 104:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-11-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-11-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 105:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-17-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-17-z.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 106:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/bd-30-29-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/bd-30-29-z.png
+  真实标签: 3
+  预测标签: 0
+--------------------------------------------------
+样本 107:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/ys-30-30-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/ys-30-30-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 108:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/30/jjk-30-2-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/30/jjk-30-2-z.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 109:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-17-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-17-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 110:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-24-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-24-z.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 111:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-1-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-1-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 112:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/ys-36-13-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/ys-36-13-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 113:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/ys-36-15-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/ys-36-15-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 114:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/bd-36-11-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/bd-36-11-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 115:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-8-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-8-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 116:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/ys-36-28-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/ys-36-28-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 117:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jjk-36-15-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jjk-36-15-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 118:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/ys-36-23-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/ys-36-23-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 119:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/bd-36-9-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/bd-36-9-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 120:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-14-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-14-z.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 121:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-36-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-36-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 122:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-12-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-12-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 123:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/bd-36-21-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/bd-36-21-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 124:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/bd-36-26-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/bd-36-26-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 125:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jjk-36-19-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jjk-36-19-f.png
+  真实标签: 0
+  预测标签: 2
+--------------------------------------------------
+样本 126:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-17-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-17-f.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
+样本 127:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-14-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-14-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 128:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/ys-36-4-f.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/ys-36-4-f.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 129:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/bd-36-19-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/bd-36-19-z.png
+  真实标签: 3
+  预测标签: 1
+--------------------------------------------------
+样本 130:
+  MSI路径: /teams/TXLJ_1745741277/yushang/data/val/MSI/36/jk-36-30-z.hdr
+  RGB路径: /teams/TXLJ_1745741277/yushang/data/val/RGB/36/jk-36-30-z.png
+  真实标签: 3
+  预测标签: 2
+--------------------------------------------------
