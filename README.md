@@ -3,13 +3,22 @@
 
 
 /train       	Model training code
+
 /eval 		Inference code
+
 /models 	  Model files and weights
+
 /log 		 Training logs
+
 /results 	   Results
+
 /visualize 	Partial visualization results, SHAP analysis
+
 /Ablation Study
+
 /performance 	testing Model performance comparison test
+
 /single-modal comparison experiment
+
 /training code for public datasets
 
