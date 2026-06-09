@@ -1,0 +1,387 @@
+C:\Users\22858\anaconda3\envs\deep-learn\python.exe D:\OverLoCK\四分类GMA_BruiseSTFNet.py
+当前搜索的子集目录：data\train
+
+train集最终收集到608个样本
+当前搜索的子集目录：data\val
+
+val集最终收集到132个样本
+当前搜索的子集目录：data\test
+
+test集最终收集到135个样本
+训练集样本数: 608
+验证集样本数: 132
+测试集样本数: 135
+训练集类别分布: [208 129 137 134]
+验证集类别分布: [52 25 28 27]
+当前搜索的子集目录：data\train
+
+train集最终收集到608个样本
+当前搜索的子集目录：data\val
+
+val集最终收集到132个样本
+当前搜索的子集目录：data\test
+
+test集最终收集到135个样本
+C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\torch\nn\modules\module.py:1159: UserWarning: expandable_segments not supported on this platform (Triggered internally at ..\c10/cuda/CUDAAllocatorConfig.h:28.)
+  return t.to(
+模型总参数: 1,641,218
+可训练参数: 1,641,218
+开始训练（设备：cuda，类别数：4）
+使用网络：BruiseSTFNet
+C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\torch\optim\lr_scheduler.py:28: UserWarning: The verbose parameter is deprecated. Please use get_last_lr() to access the learning rate.
+  warnings.warn("The verbose parameter is deprecated. Please use get_last_lr() "
+训练: 100%|██████████| 152/152 [00:42<00:00,  3.58it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 1/100
+训练：损失=1.4633，准确率=0.2730
+验证：损失=3.0584，ACC=0.1681，Micro-P=0.2879，Micro-R=0.2879，Micro-F1=0.2879，AUC-ROC=0.5644，NaN批次=0/33
+测试：损失=4.6432，ACC=0.1538，Micro-P=0.2667，Micro-R=0.2667，Micro-F1=0.2667，AUC-ROC=0.5580，NaN批次=0/34
+最佳验证集准确率更新至 0.1681，保存模型
+训练: 100%|██████████| 152/152 [00:41<00:00,  3.62it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 2/100
+训练：损失=1.4168，准确率=0.3322
+验证：损失=3.9307，ACC=0.1946，Micro-P=0.3258，Micro-R=0.3258，Micro-F1=0.3258，AUC-ROC=0.5968，NaN批次=0/33
+测试：损失=3.4280，ACC=0.2000，Micro-P=0.3333，Micro-R=0.3333，Micro-F1=0.3333，AUC-ROC=0.6097，NaN批次=0/34
+最佳验证集准确率更新至 0.1946，保存模型
+训练: 100%|██████████| 152/152 [00:50<00:00,  3.04it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 3/100
+训练：损失=1.3445，准确率=0.3503
+验证：损失=1.3713，ACC=0.3200，Micro-P=0.4848，Micro-R=0.4848，Micro-F1=0.4848，AUC-ROC=0.6934，NaN批次=0/33
+测试：损失=1.4852，ACC=0.2442，Micro-P=0.3926，Micro-R=0.3926，Micro-F1=0.3926，AUC-ROC=0.6509，NaN批次=0/34
+最佳验证集准确率更新至 0.3200，保存模型
+训练: 100%|██████████| 152/152 [00:53<00:00,  2.86it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 4/100
+训练：损失=1.3213，准确率=0.4046
+验证：损失=1.8192，ACC=0.3266，Micro-P=0.4924，Micro-R=0.4924，Micro-F1=0.4924，AUC-ROC=0.7389，NaN批次=0/33
+测试：损失=1.4117，ACC=0.2442，Micro-P=0.3926，Micro-R=0.3926，Micro-F1=0.3926，AUC-ROC=0.6029，NaN批次=0/34
+最佳验证集准确率更新至 0.3266，保存模型
+训练: 100%|██████████| 152/152 [00:47<00:00,  3.23it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 5/100
+训练：损失=1.3621，准确率=0.3701
+验证：损失=1.1692，ACC=0.3005，Micro-P=0.4621，Micro-R=0.4621，Micro-F1=0.4621，AUC-ROC=0.7055，NaN批次=0/33
+测试：损失=1.3784，ACC=0.2329，Micro-P=0.3778，Micro-R=0.3778，Micro-F1=0.3778，AUC-ROC=0.6084，NaN批次=0/34
+早停计数：1/30
+训练: 100%|██████████| 152/152 [00:46<00:00,  3.29it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 6/100
+训练：损失=1.2962，准确率=0.4095
+验证：损失=1.2955，ACC=0.2692，Micro-P=0.4242，Micro-R=0.4242，Micro-F1=0.4242，AUC-ROC=0.6496，NaN批次=0/33
+测试：损失=7.2133，ACC=0.2617，Micro-P=0.4148，Micro-R=0.4148，Micro-F1=0.4148，AUC-ROC=0.6501，NaN批次=0/34
+早停计数：2/30
+训练: 100%|██████████| 152/152 [00:47<00:00,  3.20it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 7/100
+训练：损失=1.2960，准确率=0.4243
+验证：损失=1.1870，ACC=0.3608，Micro-P=0.5303，Micro-R=0.5303，Micro-F1=0.5303，AUC-ROC=0.6674，NaN批次=0/33
+测试：损失=3.3247，ACC=0.3171，Micro-P=0.4815，Micro-R=0.4815，Micro-F1=0.4815，AUC-ROC=0.6954，NaN批次=0/34
+最佳验证集准确率更新至 0.3608，保存模型
+训练: 100%|██████████| 152/152 [00:44<00:00,  3.40it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 8/100
+训练：损失=1.2685，准确率=0.4326
+验证：损失=1.1479，ACC=0.3608，Micro-P=0.5303，Micro-R=0.5303，Micro-F1=0.5303，AUC-ROC=0.6885，NaN批次=0/33
+测试：损失=1.5952，ACC=0.2617，Micro-P=0.4148，Micro-R=0.4148，Micro-F1=0.4148，AUC-ROC=0.6399，NaN批次=0/34
+早停计数：1/30
+训练: 100%|██████████| 152/152 [00:46<00:00,  3.28it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+训练:   0%|          | 0/152 [00:00<?, ?it/s]错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 9/100
+训练：损失=1.3055，准确率=0.4095
+验证：损失=1.3194，ACC=0.2754，Micro-P=0.4318，Micro-R=0.4318，Micro-F1=0.4318，AUC-ROC=0.6686，NaN批次=0/33
+测试：损失=3.1350，ACC=0.3107，Micro-P=0.4741，Micro-R=0.4741，Micro-F1=0.4741，AUC-ROC=0.6597，NaN批次=0/34
+早停计数：2/30
+训练: 100%|██████████| 152/152 [00:43<00:00,  3.47it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+训练:   0%|          | 0/152 [00:00<?, ?it/s]错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 10/100
+训练：损失=1.2750，准确率=0.4391
+验证：损失=1.1973，ACC=0.3469，Micro-P=0.5152，Micro-R=0.5152，Micro-F1=0.5152，AUC-ROC=0.6600，NaN批次=0/33
+测试：损失=1.6569，ACC=0.2736，Micro-P=0.4296，Micro-R=0.4296，Micro-F1=0.4296，AUC-ROC=0.6557，NaN批次=0/34
+早停计数：3/30
+训练: 100%|██████████| 152/152 [00:41<00:00,  3.68it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+训练:   0%|          | 0/152 [00:00<?, ?it/s]错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 11/100
+训练：损失=1.2692，准确率=0.3849
+验证：损失=1.3184，ACC=0.2878，Micro-P=0.4470，Micro-R=0.4470，Micro-F1=0.4470，AUC-ROC=0.6433，NaN批次=0/33
+测试：损失=1.6530，ACC=0.2385，Micro-P=0.3852，Micro-R=0.3852，Micro-F1=0.3852，AUC-ROC=0.6087，NaN批次=0/34
+早停计数：4/30
+训练: 100%|██████████| 152/152 [00:41<00:00,  3.69it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+训练:   0%|          | 0/152 [00:00<?, ?it/s]错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 12/100
+训练：损失=1.2831，准确率=0.4046
+验证：损失=2.2203，ACC=0.2222，Micro-P=0.3636，Micro-R=0.3636，Micro-F1=0.3636，AUC-ROC=0.5710，NaN批次=0/33
+测试：损失=6.0054，ACC=0.1947，Micro-P=0.3259，Micro-R=0.3259，Micro-F1=0.3259，AUC-ROC=0.5732，NaN批次=0/34
+早停计数：5/30
+训练: 100%|██████████| 152/152 [00:41<00:00,  3.70it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+训练:   0%|          | 0/152 [00:00<?, ?it/s]错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 13/100
+训练：损失=1.2675，准确率=0.4309
+验证：损失=1.6611，ACC=0.1892，Micro-P=0.3182，Micro-R=0.3182，Micro-F1=0.3182，AUC-ROC=0.6061，NaN批次=0/33
+测试：损失=2.7714，ACC=0.2162，Micro-P=0.3556，Micro-R=0.3556，Micro-F1=0.3556，AUC-ROC=0.6140，NaN批次=0/34
+早停计数：6/30
+训练: 100%|██████████| 152/152 [00:41<00:00,  3.66it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 14/100
+训练：损失=1.2442，准确率=0.4359
+验证：损失=1.1715，ACC=0.3401，Micro-P=0.5076，Micro-R=0.5076，Micro-F1=0.5076，AUC-ROC=0.6812，NaN批次=0/33
+测试：损失=1.5917，ACC=0.2736，Micro-P=0.4296，Micro-R=0.4296，Micro-F1=0.4296，AUC-ROC=0.6522，NaN批次=0/34
+早停计数：7/30
+训练: 100%|██████████| 152/152 [00:40<00:00,  3.73it/s]
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\test_errors.txt
+错误样本信息已保存至: results/四分类_GMA_BruiseSTFNet2/error_samples\val_errors.txt
+
+Epoch 15/100
+训练：损失=1.2587，准确率=0.4293
+验证：损失=1.4804，ACC=0.2222，Micro-P=0.3636，Micro-R=0.3636，Micro-F1=0.3636，AUC-ROC=0.6153，NaN批次=0/33
+测试：损失=1.8436，ACC=0.2385，Micro-P=0.3852，Micro-R=0.3852，Micro-F1=0.3852，AUC-ROC=0.6888，NaN批次=0/34
+早停计数：8/30
+训练:   0%|          | 0/152 [00:00<?, ?it/s]Traceback (most recent call last):
+  File "<string>", line 1, in <module>
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\multiprocessing\spawn.py", line 122, in spawn_main
+    exitcode = _main(fd, parent_sentinel)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\multiprocessing\spawn.py", line 131, in _main
+    prepare(preparation_data)
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\multiprocessing\spawn.py", line 246, in prepare
+    _fixup_main_from_path(data['init_main_from_path'])
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\multiprocessing\spawn.py", line 297, in _fixup_main_from_path
+    main_content = runpy.run_path(main_path,
+                   ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "<frozen runpy>", line 286, in run_path
+  File "<frozen runpy>", line 98, in _run_module_code
+  File "<frozen runpy>", line 88, in _run_code
+  File "D:\OverLoCK\四分类GMA_BruiseSTFNet.py", line 5, in <module>
+    import matplotlib.pyplot as plt
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\pyplot.py", line 70, in <module>
+    from matplotlib.figure import Figure, FigureBase, figaspect
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\figure.py", line 40, in <module>
+    from matplotlib import _blocking_input, backend_bases, _docstring, projections
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\projections\__init__.py", line 55, in <module>
+    from .. import axes, _docstring
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\axes\__init__.py", line 1, in <module>
+    from . import _base
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\axes\_base.py", line 14, in <module>
+    from matplotlib import _api, cbook, _docstring, offsetbox
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\offsetbox.py", line 709, in <module>
+    class TextArea(OffsetBox):
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\artist.py", line 149, in __init_subclass__
+    cls._update_set_signature_and_docstring()
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\artist.py", line 170, in _update_set_signature_and_docstring
+    for prop in ArtistInspector(cls).get_setters()
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\artist.py", line 1524, in get_setters
+    or self.number_of_parameters(func) < 2
+       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\site-packages\matplotlib\artist.py", line 1534, in number_of_parameters
+    return len(inspect.signature(func).parameters)
+               ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\inspect.py", line 3327, in signature
+    return Signature.from_callable(obj, follow_wrapped=follow_wrapped,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\inspect.py", line 3071, in from_callable
+    return _signature_from_callable(obj, sigcls=cls,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\inspect.py", line 2559, in _signature_from_callable
+    return _signature_from_function(sigcls, obj,
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\inspect.py", line 2458, in _signature_from_function
+    return cls(parameters,
+           ^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\inspect.py", line 3062, in __init__
+    params = OrderedDict((param.name, param) for param in parameters)
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\22858\anaconda3\envs\deep-learn\Lib\inspect.py", line 3062, in <genexpr>
+    params = OrderedDict((param.name, param) for param in parameters)
+
+KeyboardInterrupt
+
+
+
+class ES2CM(nn.Module):
+    """
+    增强RGB特征提取模块 (Enhanced RGB Spectral-Spatial Context Module)
+    专门处理3通道RGB数据，提取瘀伤相关的基础特征
+    """
+
+    def __init__(self, rgb_channels=3, output_channels=48, hidden_dim=32,
+                 use_residual=True, use_attention=True):
+        super().__init__()
+        self.output_channels = output_channels
+        self.use_residual = use_residual
+        self.use_attention = use_attention
+
+        # 1. 初始投影：将3通道RGB扩展到更高维度
+        self.initial_projection = nn.Sequential(
+            nn.Conv2d(rgb_channels, hidden_dim, 3, padding=1),
+            nn.BatchNorm2d(hidden_dim),
+            nn.ReLU(inplace=True),
+
+            # 进一步扩大维度，增强特征表达能力
+            nn.Conv2d(hidden_dim, hidden_dim * 2, 3, padding=1),
+            nn.BatchNorm2d(hidden_dim * 2),
+            nn.ReLU(inplace=True),
+        )
+
+        # 2. 多尺度特征提取（参考ResNet的bottleneck设计）
+        self.multiscale_blocks = nn.ModuleList([
+            # 尺度1: 3x3卷积捕获局部细节
+            nn.Sequential(
+                nn.Conv2d(hidden_dim * 2, hidden_dim, 3, padding=1, dilation=1),
+                nn.BatchNorm2d(hidden_dim),
+                nn.ReLU(inplace=True),
+            ),
+            # 尺度2: 5x5卷积捕获中等范围特征
+            nn.Sequential(
+                nn.Conv2d(hidden_dim * 2, hidden_dim, 5, padding=2, dilation=1),
+                nn.BatchNorm2d(hidden_dim),
+                nn.ReLU(inplace=True),
+            ),
+            # 尺度3: 3x3空洞卷积捕获更大感受野
+            nn.Sequential(
+                nn.Conv2d(hidden_dim * 2, hidden_dim, 3, padding=2, dilation=2),
+                nn.BatchNorm2d(hidden_dim),
+                nn.ReLU(inplace=True),
+            )
+        ])
+
+        # 3. 特征融合层（参考MobileNet的深度可分离卷积思想）
+        self.feature_fusion = nn.Sequential(
+            # 深度卷积处理空间信息
+            nn.Conv2d(hidden_dim * 3, hidden_dim * 3, 3, padding=1, groups=hidden_dim * 3),
+            nn.BatchNorm2d(hidden_dim * 3),
+            nn.ReLU(inplace=True),
+
+            # 点卷积整合通道信息
+            nn.Conv2d(hidden_dim * 3, hidden_dim * 2, 1),
+            nn.BatchNorm2d(hidden_dim * 2),
+            nn.ReLU(inplace=True),
+        )
+
+        # 4. 瘀伤特异性注意力机制（针对瘀伤颜色特征优化）
+        if self.use_attention:
+            self.bruise_attention = nn.Sequential(
+                # 颜色统计注意力：瘀伤通常有特定的颜色分布
+                nn.AdaptiveAvgPool2d(1),
+                nn.Conv2d(hidden_dim * 2, hidden_dim // 4, 1),
+                nn.ReLU(inplace=True),
+                nn.Conv2d(hidden_dim // 4, hidden_dim * 2, 1),
+                nn.Sigmoid(),
+
+                # 空间显著性注意力：瘀伤区域的空间连续性
+                nn.Conv2d(1, 1, 7, padding=3),  # 使用较大卷积核增强空间连续性
+                nn.Sigmoid()
+            )
+
+        # 5. 残差连接增强（参考ResNet思想）
+        if self.use_residual:
+            self.residual_adapter = nn.Sequential(
+                nn.Conv2d(hidden_dim * 2, hidden_dim * 2, 1),
+                nn.BatchNorm2d(hidden_dim * 2),
+            )
+
+        # 6. 最终投影到目标输出维度
+        self.final_projection = nn.Sequential(
+            nn.Conv2d(hidden_dim * 2, output_channels, 3, padding=1),
+            nn.BatchNorm2d(output_channels),
+            nn.ReLU(inplace=True),
+
+            # 可选：添加dropout防止过拟合
+            nn.Dropout2d(0.1),
+        )
+
+        # 初始化权重
+        self._init_weights()
+
+    def _init_weights(self):
+        """权重初始化，确保训练稳定性"""
+        for m in self.modules():
+            if isinstance(m, nn.Conv2d):
+                nn.init.kaiming_normal_(m.weight, mode='fan_out', nonlinearity='relu')
+                if m.bias is not None:
+                    nn.init.constant_(m.bias, 0)
+            elif isinstance(m, nn.BatchNorm2d):
+                nn.init.constant_(m.weight, 1)
+                nn.init.constant_(m.bias, 0)
+
+    def forward(self, rgb_input):
+        """
+        Args:
+            rgb_input: 3通道RGB输入 [B, 3, H, W]
+
+        Returns:
+            output: 提取的特征 [B, output_channels, H, W]
+            attention_map: 注意力图（用于可视化）[B, 1, H, W]
+        """
+        # 1. 初始投影和维度扩展
+        x = self.initial_projection(rgb_input)  # [B, 64, H, W]
+
+        # 保存残差连接
+        if self.use_residual:
+            residual = self.residual_adapter(x) if hasattr(self, 'residual_adapter') else x
+
+        # 2. 多尺度特征提取
+        scale_features = []
+        for block in self.multiscale_blocks:
+            scale_feat = block(x)
+            scale_features.append(scale_feat)
+
+        # 拼接多尺度特征
+        multiscale_fused = torch.cat(scale_features, dim=1)  # [B, 96, H, W]
+
+        # 3. 特征融合
+        fused = self.feature_fusion(multiscale_fused)  # [B, 64, H, W]
+
+        # 4. 应用残差连接
+        if self.use_residual:
+            fused = fused + residual
+
+        # 5. 瘀伤特异性注意力
+        attention_map = None
+        if self.use_attention:
+            # 生成通道注意力
+            channel_attn = self.bruise_attention[:4](fused)  # [B, 64, 1, 1]
+            attended = fused * channel_attn
+
+            # 生成空间注意力（基于特征强度）
+            spatial_attn = torch.mean(attended, dim=1, keepdim=True)  # [B, 1, H, W]
+            spatial_attn = self.bruise_attention[4](spatial_attn)  # [B, 1, H, W]
+
+            attended = attended * spatial_attn
+            attention_map = spatial_attn
+        else:
+            attended = fused
+
+        # 6. 最终投影到目标维度
+        output = self.final_projection(attended)  # [B, output_channels, H, W]
+
+        return output
